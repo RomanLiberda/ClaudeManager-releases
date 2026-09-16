@@ -5,6 +5,18 @@
         <description>Updates for ClaudeManager</description>
         <language>en</language>
         <item>
+            <title>1.2.8</title>
+            <pubDate>Wed, 16 Sep 2026 09:59:49 +0000</pubDate>
+            <description>Refuse a credential written into the wrong account</description>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.8/ClaudeManager-1.2.8.zip"
+                       sparkle:edSignature="mA6fMoYohGhKFpNfJgkqoJEIfegZMTPRPJXulmCevyX8eJdvuTRnIOpATE52fvOLUeN7TNhgRyF0znwo9+RIDQ=="
+                       length="2389978"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.2.7</title>
             <pubDate>Wed, 16 Sep 2026 08:35:48 +0000</pubDate>
             <description>Make the account dot an indicator or a control, not both</description>
