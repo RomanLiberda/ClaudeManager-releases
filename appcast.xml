@@ -5,6 +5,18 @@
         <description>Updates for ClaudeManager</description>
         <language>en</language>
         <item>
+            <title>1.2.13</title>
+            <pubDate>Wed, 16 Sep 2026 15:34:57 +0000</pubDate>
+            <description>Put each account on a Liquid Glass panel</description>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.2.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.13/ClaudeManager-1.2.13.zip"
+                       sparkle:edSignature="5mMPsrTG1vLSHMDCfkNNwn4eiRD5k3U9tTJqsSmi/7z21QUD14sKaLgxQNGW/PPrlJLezmZaZdjxSkQmq5BiDw=="
+                       length="2500068"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.2.12</title>
             <pubDate>Wed, 16 Sep 2026 15:10:31 +0000</pubDate>
             <description>Show usage credits, and keep one account's rate limit to itself</description>
