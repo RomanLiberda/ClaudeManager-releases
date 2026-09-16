@@ -5,6 +5,18 @@
         <description>Updates for ClaudeManager</description>
         <language>en</language>
         <item>
+            <title>1.2.7</title>
+            <pubDate>Wed, 16 Sep 2026 08:35:48 +0000</pubDate>
+            <description>Make the account dot an indicator or a control, not both</description>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.7/ClaudeManager-1.2.7.zip"
+                       sparkle:edSignature="WTr/yaLxFBX0Jcqw82G27FRF7IUCzeZesGp5BbyrSbJgpyy/qo88FBcdtZlf3+huxnUAM8kVp5OMRWZHMUkXBA=="
+                       length="2385084"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.2.6</title>
             <pubDate>Wed, 16 Sep 2026 08:29:48 +0000</pubDate>
             <description>Fit 100%, and switch accounts by clicking the dot</description>
