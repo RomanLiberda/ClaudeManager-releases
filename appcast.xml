@@ -5,6 +5,18 @@
         <description>Updates for ClaudeManager</description>
         <language>en</language>
         <item>
+            <title>1.2.6</title>
+            <pubDate>Wed, 16 Sep 2026 08:29:48 +0000</pubDate>
+            <description>Fit 100%, and switch accounts by clicking the dot</description>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.6/ClaudeManager-1.2.6.zip"
+                       sparkle:edSignature="ZCqQizwk9SgDwaBvUzKb4EjuYL5FfodgVWokJWdW1WMg1d+/HIEwHnSxyyCK7fJJtmMS5iU2TKLjfUd05znuCg=="
+                       length="2383906"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.2.5</title>
             <pubDate>Wed, 16 Sep 2026 08:17:51 +0000</pubDate>
             <description>Show the version, and both update settings together</description>
