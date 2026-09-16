@@ -5,6 +5,18 @@
         <description>Updates for ClaudeManager</description>
         <language>en</language>
         <item>
+            <title>1.2.10</title>
+            <pubDate>Wed, 16 Sep 2026 10:21:57 +0000</pubDate>
+            <description>Decode Max plans, whose scoped limit is an object</description>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.10/ClaudeManager-1.2.10.zip"
+                       sparkle:edSignature="lZEL989ZJxPxAEh0dqlywDDWV9nDZBoacBnQ9Jsk2ty1Ck2glMCMHKkEQvLp9AkiOjfOVy/WQ7bPdTXIilRdBw=="
+                       length="2412698"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.2.9</title>
             <pubDate>Wed, 16 Sep 2026 10:09:56 +0000</pubDate>
             <description>Lower the deployment target to macOS 14</description>
