@@ -5,6 +5,18 @@
         <description>Updates for ClaudeManager</description>
         <language>en</language>
         <item>
+            <title>1.2.12</title>
+            <pubDate>Wed, 16 Sep 2026 15:10:31 +0000</pubDate>
+            <description>Show usage credits, and keep one account's rate limit to itself</description>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.2.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.12/ClaudeManager-1.2.12.zip"
+                       sparkle:edSignature="FYbPRJNqZv+aBTvdZtPxDEtKehjijDaHxyI130+KIGfqEY7N5IIZGRu2icJbj6PEtnn5eqjSPgnKdlrZHhqyDw=="
+                       length="2493695"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.2.11</title>
             <pubDate>Wed, 16 Sep 2026 12:51:52 +0000</pubDate>
             <description>Let the menu bar meters be hidden</description>
