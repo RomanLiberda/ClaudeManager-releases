@@ -4,5 +4,17 @@
         <title>ClaudeManager</title>
         <description>Updates for ClaudeManager</description>
         <language>en</language>
+        <item>
+            <title>1.2.2</title>
+            <pubDate>Wed, 16 Sep 2026 07:59:17 +0000</pubDate>
+            <description>Add self-updating and a one-command release</description>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.2/ClaudeManager-1.2.2.zip"
+                       sparkle:edSignature="p3IAtx6wylBzTdgG4266ibYcJCDQILA2hcSfzGBSAPToEHsyG30Ie55LRZ5KfOxD95dRtt58UISsHwBQrTPcBA=="
+                       length="2374560"
+                       type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
