@@ -5,6 +5,18 @@
         <description>Updates for ClaudeManager</description>
         <language>en</language>
         <item>
+            <title>1.2.3</title>
+            <pubDate>Wed, 16 Sep 2026 08:06:19 +0000</pubDate>
+            <description>Surface the automatic update check in Settings</description>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.3/ClaudeManager-1.2.3.zip"
+                       sparkle:edSignature="93MvyvmIwgl0QN2zAIO8o0vkyHy8l3FaMkQluiS/R1rMcuZU+2bjozvzqLc50IljPiL5ru5akvasn31vfmXzDg=="
+                       length="2379509"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.2.2</title>
             <pubDate>Wed, 16 Sep 2026 07:59:17 +0000</pubDate>
             <description>Add self-updating and a one-command release</description>
