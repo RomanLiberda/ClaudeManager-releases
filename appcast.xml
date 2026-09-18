@@ -5,6 +5,18 @@
         <description>Updates for ClaudeManager</description>
         <language>en</language>
         <item>
+            <title>1.2.14</title>
+            <pubDate>Fri, 18 Sep 2026 07:55:10 +0000</pubDate>
+            <description>Recognise an account whose tokens drifted while the app was away</description>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.2.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RomanLiberda/ClaudeManager-releases/releases/download/v1.2.14/ClaudeManager-1.2.14.zip"
+                       sparkle:edSignature="1e37ZKlMeJEeLblAKL6IPgI6Ut4ggft0w1fTbQvSjCN3ADwuHw6q6Rskl7yC21rxY+qC3rU/6kMbPQARRxZzCg=="
+                       length="2501333"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.2.13</title>
             <pubDate>Wed, 16 Sep 2026 15:34:57 +0000</pubDate>
             <description>Put each account on a Liquid Glass panel</description>
